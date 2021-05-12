@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charlie Dev</h1>
+<h1 align="center">Hi 👋, I'm Josuke Dev</h1>
 <h3 align="center">A passionate frontend developer from México 🇲🇽</h3>
 
 - 🔭 I’m currently working on **Learning**
