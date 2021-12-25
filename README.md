@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Josuke Dev</h1>
 <h3 align="center">A passionate frontend developer from México 🇲🇽</h3>
 
-- 🔭 I’m currently working on **Learning**
+- 🔭 I’m currently working on **Lievant Studio**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **PHP laravel,**
 
-- 👯 I’m looking to collaborate on **Vue and React**
+- 👯 I’m looking to collaborate on ** MERN STACK**
 
-- 🤝 I’m looking for help with **NA**
 
 
 <h3 align="left">Languages and Tools:</h3>
