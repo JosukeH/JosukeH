@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos Alva - aka [Josuek][website] 👋 
 
-## I'm a Studen, Coder and Doglover!!
+## I'm a Code and student!!
 
 - 🌱 I’m currently learning php,laravel, react native.
 - 👯 I’m looking to collaborate with MERN Stack
