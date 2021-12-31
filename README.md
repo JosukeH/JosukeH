@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos Alva - aka [Josuek][website] 👋 
+### Hi there, I'm Carlos Alva - aka JosuekH 👋 
 
 ## I'm a Code and student!!
 
