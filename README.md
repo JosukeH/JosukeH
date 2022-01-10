@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos Alva - aka JosuekH 👋 
 
-## I'm a Code and student!!
+## I'm a Coder and student!!
 
 - 🌱 I’m currently learning php,laravel, react native.
 - 👯 I’m looking to collaborate with MERN Stack
